@@ -1,0 +1,7 @@
+{
+  "name": "techscan",
+  "version": "1.0.0",
+  "description": "Tech product listing condition analyzer",
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
